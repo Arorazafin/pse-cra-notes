@@ -1,0 +1,9 @@
+site_name: pse-cre-notes
+doc_dir: docs
+theme: windmill
+nav: 
+  - Home: 'index.md'
+  - A propos:
+    - 'about.md'
+  - Architecture:
+    - Langages de programmation: 'architecture/langages.md'
